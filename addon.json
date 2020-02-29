@@ -4,6 +4,7 @@
     "version": "0.1",
     "mobileFriendly": true,
     "license": "GNU GPL2",
+    "gitHub": "bleistivt/lazyload",
     "key": "lazyload",
     "type": "addon",
     "authors": [
