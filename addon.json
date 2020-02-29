@@ -1,7 +1,7 @@
 {
     "name": "Lazy Load Images",
     "description": "Makes use of native browser lazy loading for images to improve user experience and reduce bandwith.",
-    "version": "1.0",
+    "version": "0.1",
     "mobileFriendly": true,
     "license": "GNU GPL2",
     "key": "lazyload",
